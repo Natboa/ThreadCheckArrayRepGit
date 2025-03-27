@@ -5,11 +5,7 @@ public class ThreadCheckArray implements Runnable
 	SharedData sd;
 	int[] array;
 	int b;
-	//branch code in testing about to merge
-	
-	//code thats being pushed from git
-	
-	//new git commit
+
 	public ThreadCheckArray(SharedData sd) 
 	{
 		this.sd = sd;	
