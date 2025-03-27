@@ -4,8 +4,13 @@ public class ThreadCheckArray implements Runnable
 	private boolean [] winArray;
 	SharedData sd;
 	int[] array;
+<<<<<<< HEAD
 	int b = 9;
 	
+=======
+	int b = 5;
+
+>>>>>>> refs/heads/testbranch
 	public ThreadCheckArray(SharedData sd) 
 	{
 		this.sd = sd;	
