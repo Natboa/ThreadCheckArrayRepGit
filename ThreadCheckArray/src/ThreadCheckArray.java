@@ -6,6 +6,8 @@ public class ThreadCheckArray implements Runnable
 	int[] array;
 	int b;
 	//branch code in testing about to merge
+	
+	//code thats being pushed from git
 	public ThreadCheckArray(SharedData sd) 
 	{
 		this.sd = sd;	
